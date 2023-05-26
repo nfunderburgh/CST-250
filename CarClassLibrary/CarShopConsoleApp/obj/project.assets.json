@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CarClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CarClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CarClassLibrary/CarClassLibrary.csproj",
+      "msbuildProject": "../CarClassLibrary/CarClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CarClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\APR Services\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\CST-250\\CarClassLibrary\\CarShopConsoleApp\\CarShopConsoleApp.csproj",
+      "projectName": "CarShopConsoleApp",
+      "projectPath": "D:\\Github\\CST-250\\CarClassLibrary\\CarShopConsoleApp\\CarShopConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\APR Services\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\CST-250\\CarClassLibrary\\CarShopConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\APR Services\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Github\\CST-250\\CarClassLibrary\\CarClassLibrary\\CarClassLibrary.csproj": {
+              "projectPath": "D:\\Github\\CST-250\\CarClassLibrary\\CarClassLibrary\\CarClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

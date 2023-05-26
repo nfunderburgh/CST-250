@@ -1,0 +1,12 @@
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.deps.json
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.dll
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.pdb
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.AssemblyReference.cache
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfoInputs.cache
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfo.cs
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.dll
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\refint\CarClassLibrary.dll
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.pdb
+D:\Github\CST-250\CarShopGUI\CarClassLibrary\obj\Debug\net6.0\ref\CarClassLibrary.dll

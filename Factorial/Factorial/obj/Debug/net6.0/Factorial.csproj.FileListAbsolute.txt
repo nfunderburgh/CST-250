@@ -1,0 +1,15 @@
+D:\Github\CST-250\Factorial\Factorial\bin\Debug\net6.0\Factorial.exe
+D:\Github\CST-250\Factorial\Factorial\bin\Debug\net6.0\Factorial.deps.json
+D:\Github\CST-250\Factorial\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+D:\Github\CST-250\Factorial\Factorial\bin\Debug\net6.0\Factorial.dll
+D:\Github\CST-250\Factorial\Factorial\bin\Debug\net6.0\Factorial.pdb
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.dll
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.pdb
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+D:\Github\CST-250\Factorial\Factorial\obj\Debug\net6.0\ref\Factorial.dll

@@ -1,0 +1,17 @@
+D:\Github\CST-250\HeroMaker\HeroMaker\bin\Debug\net6.0-windows\HeroMaker.exe
+D:\Github\CST-250\HeroMaker\HeroMaker\bin\Debug\net6.0-windows\HeroMaker.deps.json
+D:\Github\CST-250\HeroMaker\HeroMaker\bin\Debug\net6.0-windows\HeroMaker.runtimeconfig.json
+D:\Github\CST-250\HeroMaker\HeroMaker\bin\Debug\net6.0-windows\HeroMaker.dll
+D:\Github\CST-250\HeroMaker\HeroMaker\bin\Debug\net6.0-windows\HeroMaker.pdb
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.csproj.AssemblyReference.cache
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.Form1.resources
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.csproj.GenerateResource.cache
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.AssemblyInfoInputs.cache
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.AssemblyInfo.cs
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.dll
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\refint\HeroMaker.dll
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.pdb
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\HeroMaker.genruntimeconfig.cache
+D:\Github\CST-250\HeroMaker\HeroMaker\obj\Debug\net6.0-windows\ref\HeroMaker.dll

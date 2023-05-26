@@ -1,0 +1,17 @@
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\bin\Debug\net6.0-windows\FileIOAppGUI.exe
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\bin\Debug\net6.0-windows\FileIOAppGUI.deps.json
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\bin\Debug\net6.0-windows\FileIOAppGUI.runtimeconfig.json
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\bin\Debug\net6.0-windows\FileIOAppGUI.dll
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\bin\Debug\net6.0-windows\FileIOAppGUI.pdb
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.csproj.AssemblyReference.cache
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.Form1.resources
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.csproj.GenerateResource.cache
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.AssemblyInfoInputs.cache
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.AssemblyInfo.cs
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.dll
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\refint\FileIOAppGUI.dll
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.pdb
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\FileIOAppGUI.genruntimeconfig.cache
+D:\Github\CST-250\FileIOAppGUI\FileIOAppGUI\obj\Debug\net6.0-windows\ref\FileIOAppGUI.dll

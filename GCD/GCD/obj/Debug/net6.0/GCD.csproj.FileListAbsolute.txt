@@ -1,0 +1,15 @@
+D:\Github\CST-250\GCD\GCD\bin\Debug\net6.0\GCD.exe
+D:\Github\CST-250\GCD\GCD\bin\Debug\net6.0\GCD.deps.json
+D:\Github\CST-250\GCD\GCD\bin\Debug\net6.0\GCD.runtimeconfig.json
+D:\Github\CST-250\GCD\GCD\bin\Debug\net6.0\GCD.dll
+D:\Github\CST-250\GCD\GCD\bin\Debug\net6.0\GCD.pdb
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.csproj.AssemblyReference.cache
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.AssemblyInfoInputs.cache
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.AssemblyInfo.cs
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.dll
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\refint\GCD.dll
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.pdb
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\GCD.genruntimeconfig.cache
+D:\Github\CST-250\GCD\GCD\obj\Debug\net6.0\ref\GCD.dll

@@ -1,0 +1,17 @@
+D:\Github\CST-250\StopWatch\StopWatch\bin\Debug\net6.0-windows\StopWatch.exe
+D:\Github\CST-250\StopWatch\StopWatch\bin\Debug\net6.0-windows\StopWatch.deps.json
+D:\Github\CST-250\StopWatch\StopWatch\bin\Debug\net6.0-windows\StopWatch.runtimeconfig.json
+D:\Github\CST-250\StopWatch\StopWatch\bin\Debug\net6.0-windows\StopWatch.dll
+D:\Github\CST-250\StopWatch\StopWatch\bin\Debug\net6.0-windows\StopWatch.pdb
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.AssemblyReference.cache
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.Form1.resources
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.GenerateResource.cache
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfoInputs.cache
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfo.cs
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.dll
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\refint\StopWatch.dll
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.pdb
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\StopWatch.genruntimeconfig.cache
+D:\Github\CST-250\StopWatch\StopWatch\obj\Debug\net6.0-windows\ref\StopWatch.dll

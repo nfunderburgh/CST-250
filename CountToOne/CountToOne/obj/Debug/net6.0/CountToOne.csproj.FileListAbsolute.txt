@@ -1,0 +1,15 @@
+D:\Github\CST-250\CountToOne\CountToOne\bin\Debug\net6.0\CountToOne.exe
+D:\Github\CST-250\CountToOne\CountToOne\bin\Debug\net6.0\CountToOne.deps.json
+D:\Github\CST-250\CountToOne\CountToOne\bin\Debug\net6.0\CountToOne.runtimeconfig.json
+D:\Github\CST-250\CountToOne\CountToOne\bin\Debug\net6.0\CountToOne.dll
+D:\Github\CST-250\CountToOne\CountToOne\bin\Debug\net6.0\CountToOne.pdb
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.csproj.AssemblyReference.cache
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.AssemblyInfoInputs.cache
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.AssemblyInfo.cs
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.dll
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\refint\CountToOne.dll
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.pdb
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\CountToOne.genruntimeconfig.cache
+D:\Github\CST-250\CountToOne\CountToOne\obj\Debug\net6.0\ref\CountToOne.dll

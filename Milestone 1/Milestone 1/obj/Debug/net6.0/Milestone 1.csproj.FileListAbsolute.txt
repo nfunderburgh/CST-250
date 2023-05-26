@@ -1,0 +1,30 @@
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.csproj.AssemblyReference.cache
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.AssemblyInfoInputs.cache
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.AssemblyInfo.cs
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.exe
+D:\Github\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.deps.json
+D:\Github\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.runtimeconfig.json
+D:\Github\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.dll
+D:\Github\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.pdb
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.dll
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\refint\Milestone 1.dll
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.pdb
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.genruntimeconfig.cache
+D:\Github\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\ref\Milestone 1.dll
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.exe
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.deps.json
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.runtimeconfig.json
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.dll
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\bin\Debug\net6.0\Milestone 1.pdb
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.csproj.AssemblyReference.cache
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.AssemblyInfoInputs.cache
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.AssemblyInfo.cs
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.csproj.CoreCompileInputs.cache
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.dll
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\refint\Milestone 1.dll
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.pdb
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\Milestone 1.genruntimeconfig.cache
+C:\Users\APR Services\Desktop\CST-250\Milestone 1\Milestone 1\obj\Debug\net6.0\ref\Milestone 1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileIOAppGUI/1.0.0": {
+        "runtime": {
+          "FileIOAppGUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileIOAppGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
